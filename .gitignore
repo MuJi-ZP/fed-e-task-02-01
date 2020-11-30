@@ -1,0 +1,12 @@
+node_modules/
+dist/
+temp/
+
+2-2/pages-boilerplatenode_modules/
+2-2/pages-boilerplatedist/
+2-2/pages-boilerplatetemp/
+
+.DS_Store
+
+yarn.lock
+*.log

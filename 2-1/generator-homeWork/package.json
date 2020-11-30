@@ -1,0 +1,11 @@
+{
+  "name": "generator-homeWork",
+  "version": "0.0.1",
+  "description": "homeWork2-1",
+  "main": "index.js",
+  "author": "ZP",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
